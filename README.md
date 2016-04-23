@@ -1,3 +1,10 @@
+# Working under Windows
+
+Thanks to geerlingguy for sharing such wonderful stuffs.
+Unfortunatly I'm a Windows user so I cannot install ansible (I can in fact but it sounds too complicated and too many things to download on my machine for that) so the examples do not work proprely.
+I decide to fork the repo and to modify it so installing ansible on my Windows machine is not mandatory.
+I'll use ansible on the target VM to play ansible playbooks.
+
 # Ansible Vagrant Examples
 
 This repository contains a collection of example virtual machines running various applications. The VMs are created via Vagrant and provisioned via Ansible.
